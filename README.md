@@ -1,2 +1,2 @@
-# spotifyplaylist
- Spotipy API & Web Scrapping
+# Spotify Playlist Automation
+ Spotipy API & Web Scrapping with BS4.
